@@ -1,0 +1,13 @@
+{
+  "name": "firebaseconsole",
+  "version": "1.0.0",
+  "description": "do the firebase project in a node terminal",
+  "scripts": {
+    "start": "node getMessages"
+  },
+  "author": "tom pepe",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^4.5.2"
+  }
+}
